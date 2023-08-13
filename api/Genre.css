@@ -1,0 +1,27 @@
+  /*  Css Untuk Genre */
+  #tags {
+      width: 80%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      margin: 10px auto;
+  }
+
+  .tag {
+      color: white;
+      background-color: blueviolet;
+      padding: 15px;
+      border-radius: 50px;
+      margin: 7px;
+      display: inline-block;
+      cursor: pointer;
+  }
+
+  .tag.Pilihan {
+      background-color: red;
+  }
+
+  .no-result {
+      color: white;
+  }

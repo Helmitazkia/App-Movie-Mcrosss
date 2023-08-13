@@ -1,0 +1,12 @@
+.embed.hide {
+  display: none;
+}
+
+.embed.show {
+  display: inline-block;
+}
+
+.arrow {
+  position: absolute;
+  font-size: 350px;
+}
